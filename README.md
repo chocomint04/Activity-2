@@ -8,5 +8,11 @@ yo this is so not joaquin anton c. labao
 hello this is keane benito
 Adrian Besario here
 
+Adrian Besario 
+Brent Limpiada 
+Keane Benito 
+Rishon Papa
+Joaquin Anton Labao 
+
 ## Project Overview ##
 >This project is part of our Data Science course's Group Activity 2. The purpose of this project is to demonstrate the use of various data visualization techniques to analyze a laptop dataset. We utilize Python libraries such as Streamlit to create interactive visualizations, including line charts, 3D surface plots, violin plots, and more.
